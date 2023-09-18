@@ -1,7 +1,7 @@
 
 {
     "name": "donnicias/nav_ip",
-    "description": "This is a complete package for managing inetegrations between Microsoft Dynamics Nav and laravel applications. It makes the integration abreeze.",
+    "description": "This is a complete package for managing integrations between Microsoft Dynamics Nav and laravel applications. It makes the integration abreeze.",
     "type": "laravel",
     "license": "MIT",
     "authors": [
